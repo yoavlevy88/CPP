@@ -1,0 +1,14 @@
+A Collect a prime number!
+A Collect a number that is a squert of an integer!
+A Find A Palindrom number!
+A Find the current day of the month!
+B Catch number divided by $ : 
+10
+B Find A number with $ digit !
+3
+C Collect a number is divieded By $ with a curry of  $ !
+9
+10
+C Collect a number divided by $ and $ : 
+9
+5    
